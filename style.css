@@ -1,0 +1,230 @@
+* {
+  margin: 0%;
+}
+.landing-page-PERTO {
+  background-color: #ffffff;
+  display: contents;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+.landing-page-PERTO .overlap-group-wrapper {
+  background-color: #ffffff;
+  width: 1532px;
+  height: 1043px;
+}
+
+.landing-page-PERTO .overlap-group {
+  position: relative;
+  height: 1043px;
+}
+
+img {
+  max-width: 100%;
+}
+.landing-page-PERTO .rectangle {
+  position: relative;
+  width: 1532px;
+  height: 813px;
+  top: 0;
+  left: 0;
+  background-color: #e0eaf3;
+}
+
+.landing-page-PERTO .ativo {
+  position: absolute;
+  width: 1532px;
+  height: 1043px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.landing-page-PERTO .div {
+  position: absolute;
+  width: 1532px;
+  height: 1043px;
+  top: 0;
+  left: 0;
+  background-color: #090909c4;
+  background-blend-mode: darken;
+}
+
+.landing-page-PERTO .img {
+  position: absolute;
+  width: 714px;
+  height: 1043px;
+  top: 0;
+  left: 0;
+}
+
+.landing-page-PERTO .frame {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  position: absolute;
+  top: 223px;
+  left: 95px;
+}
+
+.landing-page-PERTO .frame-2 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 21px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.landing-page-PERTO .frame-3 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.landing-page-PERTO .rectangle-2 {
+  position: relative;
+  width: 129px;
+  height: 134px;
+}
+
+.landing-page-PERTO .text-wrapper {
+  position: relative;
+  width: fit-content;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 23px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.landing-page-PERTO .text-wrapper-2 {
+  position: relative;
+  width: 182px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 200;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.landing-page-PERTO .nosso-site-est-em {
+  position: relative;
+  width: 395px;
+  height: 172px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.landing-page-PERTO .span {
+  font-weight: 500;
+}
+
+.landing-page-PERTO .text-wrapper-3 {
+  font-weight: 700;
+}
+
+.landing-page-PERTO .frame-4 {
+  display: flex;
+  width: 106px;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.landing-page-PERTO .rectangle-3 {
+  position: relative;
+  width: 42.48px;
+  height: 42.48px;
+}
+
+.landing-page-PERTO .rectangle-4 {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  top: 0;
+  left: 69px;
+}
+
+.landing-page-PERTO .rectangle-5 {
+  position: absolute;
+  width: 150px;
+  height: 51px;
+  top: 40px;
+  left: 1302px;
+}
+
+.landing-page-PERTO .frame-5 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  position: absolute;
+  top: 324px;
+  left: 879px;
+}
+
+.landing-page-PERTO .nosso-site-ser-lan {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 500;
+  color: #cecece;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.landing-page-PERTO .rectangle-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.landing-page-PERTO .rectangle-6 {
+  position: relative;
+  width: 355px;
+  height: 338px;
+}
+
+.rectangle-wrapper {
+  position: relative;
+}
+
+.overlay-text {
+  position: absolute;
+  top: 50%; /* Ajuste conforme necessário para posicionar verticalmente */
+  left: 50%; /* Ajuste conforme necessário para posicionar horizontalmente */
+  transform: translate(-50%, -50%);
+  color: #01c2eb; /* Cor do texto */
+  font-size: 60px; /* Tamanho da fonte */
+  font-weight: bold; /* Peso da fonte, se necessário */
+  font-family: "Aspekta";
+  text-align: center;
+}
+.frame {
+  flex-direction: column; /* Mude para layout de coluna em telas menores */
+  text-align: center; /* Centralize o texto em telas menores */
+}
